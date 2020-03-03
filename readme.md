@@ -6,16 +6,16 @@ Provides user ability to read / watch the stories in the native browser.
 
 ## Technology / Libraries / Patterns Used ##
 
-###Libraries###
+**Libraries**
 - Retrofit2
 - Picasso
 - RxJava
 
-###Technology###
+**Technology**
 - Kotlin
 - AndroidX
 
-###Patterns###
+**Patterns**
 - Repository
 - MVVM
 

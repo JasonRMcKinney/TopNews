@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Top News</string>
+    <string name="defaultContDesc">News Article Image</string>
+    <string name="source">Source</string>
+    <string name="article_title">Article Title</string>
+    <string name="txt_retry">Retry</string>
+    <string name="refresh">Refresh</string>
+</resources>
